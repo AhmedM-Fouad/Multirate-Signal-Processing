@@ -48,3 +48,6 @@
 - 1.0 = Nyquist frequency (½ sampling rate)
 - Example: For 10 kHz sample rate:
 - Passband = 1.5-3.5 kHz
+
+![Magnitude_Response_dB](https://github.com/user-attachments/assets/d786a90c-6b76-4762-b79f-268093f3bdda)
+![Group_Delay_of_the_Filter](https://github.com/user-attachments/assets/173cd6a1-bec8-4601-b2b2-49ca8648fa9b)
