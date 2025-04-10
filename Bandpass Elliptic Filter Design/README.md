@@ -1,8 +1,5 @@
 # Bandpass Elliptic Filter Design
 
-**Author**: Ahmed Fouad  
-**Date**: August 8, 2024
-
 ## Analysis of MATLAB Bandpass Elliptic Filter Code
 
 ### 1. Filter Specifications
