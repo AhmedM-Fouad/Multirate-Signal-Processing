@@ -1,6 +1,6 @@
-# IIR Filter Design and Analysis using Elliptic Filters in MATLAB
+# IIR Filter Design and Analysis using Elliptic Filters
 
-This repository contains MATLAB code to design, analyze, and implement an **elliptic lowpass IIR filter** using various techniques including **allpass decomposition**, **highpass transformation**, **lattice structure conversion**, and **quantized coefficient analysis**.
+This section of the repository contains MATLAB code to design, analyze, and implement an **elliptic lowpass IIR filter** using various techniques including **allpass decomposition**, **highpass transformation**, **lattice structure conversion**, and **quantized coefficient analysis**.
 
 ## Contents
 
