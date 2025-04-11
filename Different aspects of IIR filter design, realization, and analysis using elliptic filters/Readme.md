@@ -26,6 +26,17 @@ This repository contains MATLAB code to design, analyze, and implement an **elli
 - Analyze magnitude, phase, and group delay using `freqz` and `grpdelay`
 
 ---
+![Elliptic_Lowpass_Filter__Full_Magnitude_Response](https://github.com/user-attachments/assets/984117e8-0901-46d5-b472-bd626ffd5b87)
+![Elliptic_Lowpass_Filter__Phase_Response](https://github.com/user-attachments/assets/e2c51c7c-56d5-4e1b-800b-2a6d4f116bbf)
+![Elliptic_Lowpass_Filter__Group_Delay](https://github.com/user-attachments/assets/c8be2220-29a9-45fe-867d-f3c671b9fa36)
+![Elliptic_Lowpass_Filter__Passband_Magnitude_Detail](https://github.com/user-attachments/assets/55ebbda6-53be-40d7-82f5-87e6d74eaeb0)
+![Elliptic_Lowpass_Filter__Transition_Band_Magnitude_Detail](https://github.com/user-attachments/assets/599b80d3-5fb7-40d6-8d18-196a3879ad4f)
+![Elliptic_Lowpass_Filter__Stopband_Magnitude_Detail](https://github.com/user-attachments/assets/076a88ea-08bf-4ef7-b254-2c759f23e44a)
+
+
+
+
+
 
 ## Q2: Allpass Decomposition and Reconstruction
 
@@ -39,6 +50,15 @@ This repository contains MATLAB code to design, analyze, and implement an **elli
 - Compare with the original filter using `freqz`
 - Plot magnitude and phase responses
 - Visualize the allpass components separately
+
+![Original_Filter__Magnitude_Response](https://github.com/user-attachments/assets/d6a68451-8fef-400a-8ac7-d49116707309)
+![Reconstructed_Filter__Magnitude_Response](https://github.com/user-attachments/assets/354fc10f-b1a1-4b8e-8dc4-dccb0eab15f7)
+![Reconstructed_Filter__Phase_Response](https://github.com/user-attachments/assets/cb6f0d4e-c1e3-4be0-bcd2-a98588777b4a)
+
+
+
+
+
 
 ---
 
