@@ -1,4 +1,4 @@
-# FIR Filter Design and Analysis - README
+# FIR Filter Design and Analysis
 
 This document explains two major sections of MATLAB code:
 
