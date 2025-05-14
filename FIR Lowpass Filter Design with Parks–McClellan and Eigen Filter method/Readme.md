@@ -41,8 +41,8 @@ This section introduces a custom FIR filter design using **eigenvalue decomposit
 
 ### 🔁 Two Filters Are Designed:
 ```matlab
-b1 = eigen_filterII(alpha1);   % alpha1 = 0.2
-b2 = eigen_filterII(alpha2);   % alpha2 = 0.5
+b1 = eigen_filter(alpha1);   % alpha1 = 0.2
+b2 = eigen_filter(alpha2);   % alpha2 = 0.5
 ```
 
 ### 📊 Comparison With:
