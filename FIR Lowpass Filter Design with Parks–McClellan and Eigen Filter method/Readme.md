@@ -32,8 +32,8 @@ Design a lowpass filter using the **Parks–McClellan (Remez) algorithm**, and v
 
 5. **Add specification lines:**
    - Use `xline` and `yline` to annotate passband and stopband constraints.
-
----
+![Impulse_Response](https://github.com/user-attachments/assets/fb5ec1e2-774b-469e-bf55-590196d2b94f)
+![Frequency_Response_Magnitude_in_dB](https://github.com/user-attachments/assets/1e5c0395-38f7-4b35-af69-1bebfcea8ca6)
 
 ## 🟦 Q2: Eigenfilter Design and Comparison
 
@@ -89,3 +89,11 @@ Designs a **Type I FIR lowpass eigenfilter**.
    - Impulse response (`stem`)
    - Frequency response (`freqz`)
    - Specification lines with `xline`, `yline` to mark ωₛ and ωₚ.
+
+![Impulse_Response_alpha](https://github.com/user-attachments/assets/097898fe-0ce5-403b-9e66-67f000da079c)
+![Frequency_Response_alpha](https://github.com/user-attachments/assets/250fbe38-dc55-40c8-b515-d6578ffa33b2)
+![Impulse_Response_alpha_2](https://github.com/user-attachments/assets/887c660f-f522-4167-aed6-2ae931fc6063)
+![Frequency_Response_alpha_2](https://github.com/user-attachments/assets/ddb54362-5af5-4c55-b4b3-d241cd619eb8)
+![Comparison_of_Impulse_Responses](https://github.com/user-attachments/assets/282db801-7de8-4a47-a350-87ed59421b5a)
+![Comparison_of_Eigenfilter_and_FIRLS_Magnitude_Response](https://github.com/user-attachments/assets/9602530f-2cd2-4763-9ed3-a743f42c0a68)
+
